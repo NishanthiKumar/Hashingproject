@@ -9,7 +9,7 @@ public class UseEmp {
 		Emp e2=new Emp(104,"Prathap",80000,"Male");
 		Emp e3=new Emp(101,"Nisha",50000,"Female");
 		Emp e4=new Emp(105,"Kumar",70000,"Male");
-		Emp e5=new Emp(1	,"Gowtham",60000,"Male");
+		Emp e5=new Emp(1,"Nishanthi",60000,"Female");
 		
 		HashMap<Integer, Emp> emps= new HashMap<>();
 		emps.put(e1.getId(), e1);emps.put(e2.getId(), e2);emps.put(e3.getId(), e3);
